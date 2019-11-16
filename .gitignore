@@ -9,7 +9,7 @@
 /nbproject/
 
 # Below is our own .gitignore.
-# Persistence 
+
 
 
 ### Java ###
@@ -444,8 +444,8 @@
 
 
 
-# Persistence 
-**/persistence.xml
+
+
 
 ### Java ###
 # Compiled class file
