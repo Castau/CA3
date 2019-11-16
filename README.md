@@ -4,6 +4,13 @@
 ### Status
 [![Build Status](https://travis-ci.org/Castau/CA3.svg?branch=master)](https://travis-ci.org/Castau/CA3)
 
+### Deployed project
+https://ca3camilla.surge.sh/
+
+#### Backend
+https://camillastaunstrup.dk/CA3/api/info
+
+
 
 [Task](https://docs.google.com/document/d/1C6tAOaZ75OTHKTf17uUF0PAysJ409KXBNnTME7f966M/edit#)
 
