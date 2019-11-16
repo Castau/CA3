@@ -8,7 +8,7 @@
 https://ca3camilla.surge.sh/
 
 #### Backend
-https://camillastaunstrup.dk/CA3/api/info
+https://camillastaunstrup.dk/CA3
 
 
 
